@@ -1,3 +1,5 @@
+// Bit Vector using Character Array
+
 #include<stdio.h>
 #include<stdlib.h>
 char *create_set(int n)
